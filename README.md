@@ -1,5 +1,8 @@
 # Identifying-Age-Related-Conditions
 ## The detailed description of this code can be found in the reference provided at  https://www.kaggle.com/competitions/icr-identify-age-related-conditions/overview
+
+## The code can be found in here (https://www.kaggle.com/code/hongyuguo/icr-augxilarylearning-v2)
+
 # Introduction
 The goal of this project is to predict if a person has any of three medical conditions. We create a model trained on measurements of health characteristics to predict if the person has one or more of any of the three medical conditions (Class 1), or none of the three medical conditions (Class 0). 
 
